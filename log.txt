@@ -1,0 +1,744 @@
+**********EVENT INFO*********
+0
+Name of the Venue: STAR LOUNGE
+Venue Location: 東京都
+Date of the Event: 2019-11-23T00:30:00
+*****************************
+**********SONG INFO*********
+0
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+1
+song name: Or Nah - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Or Nah (Remix)
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+2
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+3
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+4
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+5
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+6
+song name: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+preview song: null
+album: Revenge Of The Dreamers III
+artist(s): Dreamville
+*****************************
+**********SONG INFO*********
+7
+song name: Do You Mean
+preview song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: World War Joy...Takeaway
+artist(s): The Chainsmokers
+*****************************
+**********SONG INFO*********
+8
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: The Divine Feminine
+artist(s): Mac Miller
+*****************************
+**********SONG INFO*********
+9
+song name: Hottest In The City
+preview song: https://p.scdn.co/mp3-preview/16c147262bc4013045292a2756412844f69196aa?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Hottest In The City
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+10
+song name: Way Back Home (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/bcd284558721549751344590778ffa6efa3d7862?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: The Lost Boy
+artist(s): YBN Cordae
+*****************************
+**********SONG INFO*********
+11
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+12
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+13
+song name: The Light
+preview song: null
+album: MIH-TY
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+14
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: A Rush of Blood to the Head
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+15
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+*****************************
+**********SONG INFO*********
+16
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+17
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+*****************************
+**********SONG INFO*********
+18
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+*****************************
+**********SONG INFO*********
+19
+song name: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+preview song: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Suicide Squad: The Album
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+0
+song name: Wish You Were Here
+preview song: https://p.scdn.co/mp3-preview/7ce0d4e5f0ffcf8fe1a312c9c2f9331c8d2bf994?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Wish You Were Here
+artist(s): Pink Floyd
+*****************************
+**********SONG INFO*********
+1
+song name: Wish You Were Here
+preview song: https://p.scdn.co/mp3-preview/db50a25ea77c872ac29673633b98fb2273a1a010?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Morning View
+artist(s): Incubus
+*****************************
+**********SONG INFO*********
+2
+song name: Have a Cigar
+preview song: https://p.scdn.co/mp3-preview/5128e08debcd7d73176ad5bdac640c48ae8e6f79?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Wish You Were Here
+artist(s): Pink Floyd
+*****************************
+**********SONG INFO*********
+3
+song name: Shine On You Crazy Diamond (Pts. 1-5)
+preview song: https://p.scdn.co/mp3-preview/7c03d0cf10ad5784dab1f41840727bbf4492c7f4?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Wish You Were Here
+artist(s): Pink Floyd
+*****************************
+**********SONG INFO*********
+4
+song name: Wish You Were Here
+preview song: https://p.scdn.co/mp3-preview/f0824eeb22abdbbcf852215d510e33eb720f26dd?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Wish You Were Here
+artist(s): Cody Jinks
+*****************************
+**********SONG INFO*********
+5
+song name: Welcome to the Machine
+preview song: https://p.scdn.co/mp3-preview/81b353c6cc187c13ae81b9cc79df63742fabac89?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Wish You Were Here
+artist(s): Pink Floyd
+*****************************
+**********SONG INFO*********
+6
+song name: Wish You Were Here
+preview song: https://p.scdn.co/mp3-preview/110c7bab8aea1a508f165f25170dcac905d69202?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: The Peace And The Panic
+artist(s): Neck Deep
+*****************************
+**********SONG INFO*********
+7
+song name: Wish You Were Here
+preview song: https://p.scdn.co/mp3-preview/3851a3abc4483de07dfada71cd6a9fd261077fcd?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Goodbye Lullaby (Expanded Edition)
+artist(s): Avril Lavigne
+*****************************
+**********SONG INFO*********
+8
+song name: Wish You Were Here
+preview song: https://p.scdn.co/mp3-preview/daa83b877fd44de37274de171e97c38bb0379d80?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Wish You Were Here
+artist(s): The Milk Carton Kids
+*****************************
+**********SONG INFO*********
+9
+song name: I Do (Cherish You)
+preview song: null
+album: Wish You Were Here
+artist(s): Mark Wills
+*****************************
+**********SONG INFO*********
+10
+song name: just you
+preview song: https://p.scdn.co/mp3-preview/57bff090065aad127010b6fea3820cb20281958e?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Wish You Were Here
+artist(s): Ameba
+*****************************
+**********SONG INFO*********
+11
+song name: Wish You Were Here
+preview song: null
+album: The Stage (Deluxe Edition)
+artist(s): Avenged Sevenfold
+*****************************
+**********SONG INFO*********
+12
+song name: Shine On You Crazy Diamond (Pts. 6-9)
+preview song: https://p.scdn.co/mp3-preview/0149309a02c147a561d5557707c1ab8494cc48d6?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Wish You Were Here
+artist(s): Pink Floyd
+*****************************
+**********SONG INFO*********
+13
+song name: Don't Laugh At Me
+preview song: null
+album: Wish You Were Here
+artist(s): Mark Wills
+*****************************
+**********SONG INFO*********
+14
+song name: warm
+preview song: https://p.scdn.co/mp3-preview/673fd1cc27efa2fb010c8b87b9fb2b060ca05bae?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Wish You Were Here
+artist(s): Ameba
+*****************************
+**********SONG INFO*********
+15
+song name: Wish You Were Here
+preview song: https://p.scdn.co/mp3-preview/79c9e9c569cbf5a5d9c64d600228ea99cc60e3cc?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Jah Victory
+artist(s): Alpha Blondy
+*****************************
+**********SONG INFO*********
+16
+song name: I Wish You Were Here
+preview song: null
+album: I Wish You Were Here
+artist(s): HRVY
+*****************************
+**********SONG INFO*********
+17
+song name: Wish You Were Here (feat. Msaki)
+preview song: https://p.scdn.co/mp3-preview/240ecd74accb1fe4397233dd42f849ecce4ee11d?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Wish You Were Here (feat. Msaki)
+artist(s): Black Coffee
+*****************************
+**********SONG INFO*********
+18
+song name: Wish You Were Here
+preview song: https://p.scdn.co/mp3-preview/b07286677eef58af85acb180f4f27acab1c58688?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Under the Covers
+artist(s): Ninja Sex Party
+*****************************
+**********SONG INFO*********
+19
+song name: Wish That You Were Here - From “Miss Peregrine’s Home for Peculiar Children” Original Motion Picture
+preview song: null
+album: Wish That You Were Here (From “Miss Peregrine’s Home For Peculiar Children” Original Motion Picture Soundtrack)
+artist(s): Florence + The Machine
+*****************************
+**********MOVIE INFO*********
+Title: Hulk
+Release Year: 2003
+IMDB Rating: 5.6
+Rotten Tomatoes Rating: 62%
+Country of Production: USA
+Language: English, Spanish
+Plot: Bruce Banner, a genetics researcher with a tragic past, suffers an accident that causes him to transform into a raging green monster when he gets angry.
+Actors: Eric Bana, Jennifer Connelly, Sam Elliott, Josh Lucas
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: STAR LOUNGE
+Venue Location: 東京都
+Date of the Event: 2019-11-23T00:30:00
+*****************************
+**********SONG INFO*********
+0
+song name: Love Buzz
+preview song: https://p.scdn.co/mp3-preview/6bba4ba07ed59dafe010ce5cba3a31340ca3f966?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: At Home
+artist(s): Shocking Blue
+*****************************
+**********SONG INFO*********
+1
+song name: Shocking Love
+preview song: https://p.scdn.co/mp3-preview/7450ae77d45b86fa64b295f5e80ea467dae06b94?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: The Trojan: Rocksteady Collection
+artist(s): Federals
+*****************************
+**********SONG INFO*********
+2
+song name: Love Machine
+preview song: https://p.scdn.co/mp3-preview/4c54ad6879148021e0f7805f09736b24059e6170?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: At Home
+artist(s): Shocking Blue
+*****************************
+**********SONG INFO*********
+3
+song name: Robbery (Shocking Love)
+preview song: https://p.scdn.co/mp3-preview/f3abc9f760458b942da1ce6745cdff42835ad148?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: The Nerve
+artist(s): Filligar
+*****************************
+**********SONG INFO*********
+4
+song name: Love Is Shocking
+preview song: https://p.scdn.co/mp3-preview/7087111396a7eb3dde2795497d14f2d884fa2f4f?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: UP LIKE 7
+artist(s): Super Black
+*****************************
+**********SONG INFO*********
+5
+song name: Love Buzz
+preview song: https://p.scdn.co/mp3-preview/6bba4ba07ed59dafe010ce5cba3a31340ca3f966?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Greatest Hits Of Shocking Blue
+artist(s): Shocking Blue
+*****************************
+**********SONG INFO*********
+6
+song name: I Love Voodoo Music
+preview song: https://p.scdn.co/mp3-preview/ad6cc333ef4b1df5136e763ca9e84486542bf275?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Scorpio's Dance
+artist(s): Shocking Blue
+*****************************
+**********SONG INFO*********
+7
+song name: Fireball Of Love
+preview song: https://p.scdn.co/mp3-preview/29d22248677a25973da6788b9b617dc31fe4bde9?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: At Home
+artist(s): Shocking Blue
+*****************************
+**********SONG INFO*********
+8
+song name: Love Buzz
+preview song: https://p.scdn.co/mp3-preview/6bba4ba07ed59dafe010ce5cba3a31340ca3f966?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: The Very Best Of Shocking Blue (Part One - The A Sides)
+artist(s): Shocking Blue
+*****************************
+**********SONG INFO*********
+9
+song name: Fireball Of Love
+preview song: https://p.scdn.co/mp3-preview/29d22248677a25973da6788b9b617dc31fe4bde9?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: The Very Best Of Shocking Blue
+artist(s): Shocking Blue
+*****************************
+**********SONG INFO*********
+10
+song name: Never Release The One You Love
+preview song: https://p.scdn.co/mp3-preview/95bd7e39b35b895bc24013abba256e9d7b95ee35?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Inkpot & Attila
+artist(s): Shocking Blue
+*****************************
+**********SONG INFO*********
+11
+song name: Save Your Love
+preview song: https://p.scdn.co/mp3-preview/d16388af6b5f84e05074fccef885e973148eaccc?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Dream On Dreamer
+artist(s): Shocking Blue
+*****************************
+**********SONG INFO*********
+12
+song name: Love Is In The Air
+preview song: https://p.scdn.co/mp3-preview/51718825bc4bfdebcf4edb0b141c3871e06d5001?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: The Very Best Of Shocking Blue (Part One - The A Sides)
+artist(s): Shocking Blue
+*****************************
+**********SONG INFO*********
+13
+song name: Love Sweet Love
+preview song: https://p.scdn.co/mp3-preview/f05117be97f4bdf9073f6326f00db740b28921da?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: 3rd Album
+artist(s): Shocking Blue
+*****************************
+**********SONG INFO*********
+14
+song name: Yah Love Is Beautiful
+preview song: https://p.scdn.co/mp3-preview/942417ae26c2392bc5adb9f49a676495c09db501?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Troddin On
+artist(s): Shocking Murray
+*****************************
+**********SONG INFO*********
+15
+song name: Give My Love To The Sunrise
+preview song: https://p.scdn.co/mp3-preview/78c2b0dc81521b58ce948bfa9b75602938605980?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: The Very Best Of Shocking Blue
+artist(s): Shocking Blue
+*****************************
+**********SONG INFO*********
+16
+song name: Shocking
+preview song: https://p.scdn.co/mp3-preview/876530f2911a15176fb129ec4289903c2cee2b3e?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: My Love
+artist(s): Maria Pilar Gomez
+*****************************
+**********SONG INFO*********
+17
+song name: Shocking Love
+preview song: https://p.scdn.co/mp3-preview/d44d2274ca2d3f26cba2701475acf8665b9690d8?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Sings for the People Soul Man Dub
+artist(s): Junior Soul
+*****************************
+**********SONG INFO*********
+18
+song name: Shocking
+preview song: https://p.scdn.co/mp3-preview/8ff9ef7c701dfb7108a0ac703e260502f3c4da98?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Love Patrol
+artist(s): Jump4joy
+*****************************
+**********SONG INFO*********
+19
+song name: Shocking Love
+preview song: https://p.scdn.co/mp3-preview/4bdd91af88f800af500f073f018518f582174297?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: The Nightfall
+artist(s): CC Brez
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: STAR LOUNGE
+Venue Location: 東京都
+Date of the Event: 2019-11-23T00:30:00
+*****************************
+**********SONG INFO*********
+0
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+1
+song name: Or Nah - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Or Nah (Remix)
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+2
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+3
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+4
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+5
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+6
+song name: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+preview song: null
+album: Revenge Of The Dreamers III
+artist(s): Dreamville
+*****************************
+**********SONG INFO*********
+7
+song name: Do You Mean
+preview song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: World War Joy...Takeaway
+artist(s): The Chainsmokers
+*****************************
+**********SONG INFO*********
+8
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: The Divine Feminine
+artist(s): Mac Miller
+*****************************
+**********SONG INFO*********
+9
+song name: Hottest In The City
+preview song: https://p.scdn.co/mp3-preview/16c147262bc4013045292a2756412844f69196aa?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Hottest In The City
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+10
+song name: Way Back Home (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/bcd284558721549751344590778ffa6efa3d7862?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: The Lost Boy
+artist(s): YBN Cordae
+*****************************
+**********SONG INFO*********
+11
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+12
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+13
+song name: The Light
+preview song: null
+album: MIH-TY
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+14
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: A Rush of Blood to the Head
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+15
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+*****************************
+**********SONG INFO*********
+16
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+17
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+*****************************
+**********SONG INFO*********
+18
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+*****************************
+**********SONG INFO*********
+19
+song name: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+preview song: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Suicide Squad: The Album
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+0
+song name: Wish You Were Here
+preview song: https://p.scdn.co/mp3-preview/7ce0d4e5f0ffcf8fe1a312c9c2f9331c8d2bf994?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Wish You Were Here
+artist(s): Pink Floyd
+*****************************
+**********SONG INFO*********
+1
+song name: Wish You Were Here
+preview song: https://p.scdn.co/mp3-preview/db50a25ea77c872ac29673633b98fb2273a1a010?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Morning View
+artist(s): Incubus
+*****************************
+**********SONG INFO*********
+2
+song name: Have a Cigar
+preview song: https://p.scdn.co/mp3-preview/5128e08debcd7d73176ad5bdac640c48ae8e6f79?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Wish You Were Here
+artist(s): Pink Floyd
+*****************************
+**********SONG INFO*********
+3
+song name: Shine On You Crazy Diamond (Pts. 1-5)
+preview song: https://p.scdn.co/mp3-preview/7c03d0cf10ad5784dab1f41840727bbf4492c7f4?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Wish You Were Here
+artist(s): Pink Floyd
+*****************************
+**********SONG INFO*********
+4
+song name: Wish You Were Here
+preview song: https://p.scdn.co/mp3-preview/f0824eeb22abdbbcf852215d510e33eb720f26dd?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Wish You Were Here
+artist(s): Cody Jinks
+*****************************
+**********SONG INFO*********
+5
+song name: Welcome to the Machine
+preview song: https://p.scdn.co/mp3-preview/81b353c6cc187c13ae81b9cc79df63742fabac89?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Wish You Were Here
+artist(s): Pink Floyd
+*****************************
+**********SONG INFO*********
+6
+song name: Wish You Were Here
+preview song: https://p.scdn.co/mp3-preview/110c7bab8aea1a508f165f25170dcac905d69202?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: The Peace And The Panic
+artist(s): Neck Deep
+*****************************
+**********SONG INFO*********
+7
+song name: Wish You Were Here
+preview song: https://p.scdn.co/mp3-preview/3851a3abc4483de07dfada71cd6a9fd261077fcd?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Goodbye Lullaby (Expanded Edition)
+artist(s): Avril Lavigne
+*****************************
+**********SONG INFO*********
+8
+song name: Wish You Were Here
+preview song: https://p.scdn.co/mp3-preview/daa83b877fd44de37274de171e97c38bb0379d80?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Wish You Were Here
+artist(s): The Milk Carton Kids
+*****************************
+**********SONG INFO*********
+9
+song name: I Do (Cherish You)
+preview song: null
+album: Wish You Were Here
+artist(s): Mark Wills
+*****************************
+**********SONG INFO*********
+10
+song name: just you
+preview song: https://p.scdn.co/mp3-preview/57bff090065aad127010b6fea3820cb20281958e?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Wish You Were Here
+artist(s): Ameba
+*****************************
+**********SONG INFO*********
+11
+song name: Wish You Were Here
+preview song: null
+album: The Stage (Deluxe Edition)
+artist(s): Avenged Sevenfold
+*****************************
+**********SONG INFO*********
+12
+song name: Shine On You Crazy Diamond (Pts. 6-9)
+preview song: https://p.scdn.co/mp3-preview/0149309a02c147a561d5557707c1ab8494cc48d6?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Wish You Were Here
+artist(s): Pink Floyd
+*****************************
+**********SONG INFO*********
+13
+song name: Don't Laugh At Me
+preview song: null
+album: Wish You Were Here
+artist(s): Mark Wills
+*****************************
+**********SONG INFO*********
+14
+song name: warm
+preview song: https://p.scdn.co/mp3-preview/673fd1cc27efa2fb010c8b87b9fb2b060ca05bae?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Wish You Were Here
+artist(s): Ameba
+*****************************
+**********SONG INFO*********
+15
+song name: Wish You Were Here
+preview song: https://p.scdn.co/mp3-preview/79c9e9c569cbf5a5d9c64d600228ea99cc60e3cc?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Jah Victory
+artist(s): Alpha Blondy
+*****************************
+**********SONG INFO*********
+16
+song name: I Wish You Were Here
+preview song: null
+album: I Wish You Were Here
+artist(s): HRVY
+*****************************
+**********SONG INFO*********
+17
+song name: Wish You Were Here (feat. Msaki)
+preview song: https://p.scdn.co/mp3-preview/240ecd74accb1fe4397233dd42f849ecce4ee11d?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Wish You Were Here (feat. Msaki)
+artist(s): Black Coffee
+*****************************
+**********SONG INFO*********
+18
+song name: Wish You Were Here
+preview song: https://p.scdn.co/mp3-preview/b07286677eef58af85acb180f4f27acab1c58688?cid=35a53e4ffa8f4a13a0b1277c17e35b91
+album: Under the Covers
+artist(s): Ninja Sex Party
+*****************************
+**********SONG INFO*********
+19
+song name: Wish That You Were Here - From “Miss Peregrine’s Home for Peculiar Children” Original Motion Picture
+preview song: null
+album: Wish That You Were Here (From “Miss Peregrine’s Home For Peculiar Children” Original Motion Picture Soundtrack)
+artist(s): Florence + The Machine
+*****************************
+**********MOVIE INFO*********
+Title: Hulk
+Release Year: 2003
+IMDB Rating: 5.6
+Rotten Tomatoes Rating: 62%
+Country of Production: USA
+Language: English, Spanish
+Plot: Bruce Banner, a genetics researcher with a tragic past, suffers an accident that causes him to transform into a raging green monster when he gets angry.
+Actors: Eric Bana, Jennifer Connelly, Sam Elliott, Josh Lucas
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: STAR LOUNGE
+Venue Location: 東京都
+Date of the Event: 2019-11-23T00:30:00
+*****************************
